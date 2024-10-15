@@ -1,0 +1,14 @@
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\bin\Debug\net8.0\EventsAgan.exe
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\bin\Debug\net8.0\EventsAgan.deps.json
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\bin\Debug\net8.0\EventsAgan.runtimeconfig.json
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\bin\Debug\net8.0\EventsAgan.dll
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\bin\Debug\net8.0\EventsAgan.pdb
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.AssemblyInfoInputs.cache
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.AssemblyInfo.cs
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.csproj.CoreCompileInputs.cache
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.dll
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\refint\EventsAgan.dll
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.pdb
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\EventsAgan.genruntimeconfig.cache
+C:\Users\achubinidze\source\repos\EventsAgan\EventsAgan\obj\Debug\net8.0\ref\EventsAgan.dll

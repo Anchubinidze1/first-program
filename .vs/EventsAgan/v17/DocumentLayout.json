@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|c:\\users\\achubinidze\\source\\repos\\eventsagan\\eventsagan\\example3\\processbusinesslogic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|solutionrelative:eventsagan\\example3\\processbusinesslogic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|c:\\users\\achubinidze\\source\\repos\\eventsagan\\eventsagan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|solutionrelative:eventsagan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|c:\\users\\achubinidze\\source\\repos\\eventsagan\\eventsagan\\example1\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|solutionrelative:eventsagan\\example1\\processbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|c:\\users\\achubinidze\\source\\repos\\eventsagan\\eventsagan\\example2\\processbusinesslogic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747BEB64-1AE8-41D5-B8BB-DCA097610C74}|EventsAgan\\EventsAgan.csproj|solutionrelative:eventsagan\\example2\\processbusinesslogic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessBusinessLogic3.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example3\\ProcessBusinessLogic3.cs",
+              "RelativeDocumentMoniker": "EventsAgan\\Example3\\ProcessBusinessLogic3.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example3\\ProcessBusinessLogic3.cs",
+              "RelativeToolTip": "EventsAgan\\Example3\\ProcessBusinessLogic3.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:13:36.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessBusinessLogic2.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example2\\ProcessBusinessLogic2.cs",
+              "RelativeDocumentMoniker": "EventsAgan\\Example2\\ProcessBusinessLogic2.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example2\\ProcessBusinessLogic2.cs",
+              "RelativeToolTip": "EventsAgan\\Example2\\ProcessBusinessLogic2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:58:33.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Program.cs",
+              "RelativeDocumentMoniker": "EventsAgan\\Program.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Program.cs",
+              "RelativeToolTip": "EventsAgan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:52:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example1\\ProcessBusinessLogic.cs",
+              "RelativeDocumentMoniker": "EventsAgan\\Example1\\ProcessBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\achubinidze\\source\\repos\\EventsAgan\\EventsAgan\\Example1\\ProcessBusinessLogic.cs",
+              "RelativeToolTip": "EventsAgan\\Example1\\ProcessBusinessLogic.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:27:23.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
